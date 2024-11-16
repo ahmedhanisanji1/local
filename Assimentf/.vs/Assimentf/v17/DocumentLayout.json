@@ -1,0 +1,267 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmed\\source\\repos\\Assimentf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA549B6-D3F4-4BA2-9E7C-29A492786D93}|Assimentf\\Assimentf.csproj|c:\\users\\ahmed\\source\\repos\\assimentf\\assimentf\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5DA549B6-D3F4-4BA2-9E7C-29A492786D93}|Assimentf\\Assimentf.csproj|solutionrelative:assimentf\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA549B6-D3F4-4BA2-9E7C-29A492786D93}|Assimentf\\Assimentf.csproj|c:\\users\\ahmed\\source\\repos\\assimentf\\assimentf\\allmovie.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA549B6-D3F4-4BA2-9E7C-29A492786D93}|Assimentf\\Assimentf.csproj|solutionrelative:assimentf\\allmovie.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA549B6-D3F4-4BA2-9E7C-29A492786D93}|Assimentf\\Assimentf.csproj|c:\\users\\ahmed\\source\\repos\\assimentf\\assimentf\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA549B6-D3F4-4BA2-9E7C-29A492786D93}|Assimentf\\Assimentf.csproj|solutionrelative:assimentf\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA549B6-D3F4-4BA2-9E7C-29A492786D93}|Assimentf\\Assimentf.csproj|c:\\users\\ahmed\\source\\repos\\assimentf\\assimentf\\details.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA549B6-D3F4-4BA2-9E7C-29A492786D93}|Assimentf\\Assimentf.csproj|solutionrelative:assimentf\\details.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA549B6-D3F4-4BA2-9E7C-29A492786D93}|Assimentf\\Assimentf.csproj|c:\\users\\ahmed\\source\\repos\\assimentf\\assimentf\\allmovie.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5DA549B6-D3F4-4BA2-9E7C-29A492786D93}|Assimentf\\Assimentf.csproj|solutionrelative:assimentf\\allmovie.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA549B6-D3F4-4BA2-9E7C-29A492786D93}|Assimentf\\Assimentf.csproj|c:\\users\\ahmed\\source\\repos\\assimentf\\assimentf\\details.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5DA549B6-D3F4-4BA2-9E7C-29A492786D93}|Assimentf\\Assimentf.csproj|solutionrelative:assimentf\\details.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA549B6-D3F4-4BA2-9E7C-29A492786D93}|Assimentf\\Assimentf.csproj|c:\\users\\ahmed\\source\\repos\\assimentf\\assimentf\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA549B6-D3F4-4BA2-9E7C-29A492786D93}|Assimentf\\Assimentf.csproj|solutionrelative:assimentf\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA549B6-D3F4-4BA2-9E7C-29A492786D93}|Assimentf\\Assimentf.csproj|c:\\users\\ahmed\\source\\repos\\assimentf\\assimentf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA549B6-D3F4-4BA2-9E7C-29A492786D93}|Assimentf\\Assimentf.csproj|solutionrelative:assimentf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA549B6-D3F4-4BA2-9E7C-29A492786D93}|Assimentf\\Assimentf.csproj|c:\\users\\ahmed\\source\\repos\\assimentf\\assimentf\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5DA549B6-D3F4-4BA2-9E7C-29A492786D93}|Assimentf\\Assimentf.csproj|solutionrelative:assimentf\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA549B6-D3F4-4BA2-9E7C-29A492786D93}|Assimentf\\Assimentf.csproj|c:\\users\\ahmed\\source\\repos\\assimentf\\assimentf\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA549B6-D3F4-4BA2-9E7C-29A492786D93}|Assimentf\\Assimentf.csproj|solutionrelative:assimentf\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA549B6-D3F4-4BA2-9E7C-29A492786D93}|Assimentf\\Assimentf.csproj|c:\\users\\ahmed\\source\\repos\\assimentf\\assimentf\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5DA549B6-D3F4-4BA2-9E7C-29A492786D93}|Assimentf\\Assimentf.csproj|solutionrelative:assimentf\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA549B6-D3F4-4BA2-9E7C-29A492786D93}|Assimentf\\Assimentf.csproj|c:\\users\\ahmed\\source\\repos\\assimentf\\assimentf\\forgpass.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5DA549B6-D3F4-4BA2-9E7C-29A492786D93}|Assimentf\\Assimentf.csproj|solutionrelative:assimentf\\forgpass.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA549B6-D3F4-4BA2-9E7C-29A492786D93}|Assimentf\\Assimentf.csproj|c:\\users\\ahmed\\source\\repos\\assimentf\\assimentf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5DA549B6-D3F4-4BA2-9E7C-29A492786D93}|Assimentf\\Assimentf.csproj|solutionrelative:assimentf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA549B6-D3F4-4BA2-9E7C-29A492786D93}|Assimentf\\Assimentf.csproj|c:\\users\\ahmed\\source\\repos\\assimentf\\assimentf\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{5DA549B6-D3F4-4BA2-9E7C-29A492786D93}|Assimentf\\Assimentf.csproj|solutionrelative:assimentf\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA549B6-D3F4-4BA2-9E7C-29A492786D93}|Assimentf\\Assimentf.csproj|c:\\users\\ahmed\\source\\repos\\assimentf\\assimentf\\forgpass.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA549B6-D3F4-4BA2-9E7C-29A492786D93}|Assimentf\\Assimentf.csproj|solutionrelative:assimentf\\forgpass.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\source\\repos\\Assimentf\\Assimentf\\Details.xaml.cs",
+              "RelativeDocumentMoniker": "Assimentf\\Details.xaml.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\source\\repos\\Assimentf\\Assimentf\\Details.xaml.cs",
+              "RelativeToolTip": "Assimentf\\Details.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwCMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T06:06:47.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Allmovie.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\source\\repos\\Assimentf\\Assimentf\\Allmovie.xaml.cs",
+              "RelativeDocumentMoniker": "Assimentf\\Allmovie.xaml.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\source\\repos\\Assimentf\\Assimentf\\Allmovie.xaml.cs",
+              "RelativeToolTip": "Assimentf\\Allmovie.xaml.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAASwFkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:50:19.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Admin.xaml",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\source\\repos\\Assimentf\\Assimentf\\Admin.xaml",
+              "RelativeDocumentMoniker": "Assimentf\\Admin.xaml",
+              "ToolTip": "C:\\Users\\Ahmed\\source\\repos\\Assimentf\\Assimentf\\Admin.xaml",
+              "RelativeToolTip": "Assimentf\\Admin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-15T13:34:30.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.xaml",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\source\\repos\\Assimentf\\Assimentf\\Details.xaml",
+              "RelativeDocumentMoniker": "Assimentf\\Details.xaml",
+              "ToolTip": "C:\\Users\\Ahmed\\source\\repos\\Assimentf\\Assimentf\\Details.xaml",
+              "RelativeToolTip": "Assimentf\\Details.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-15T13:34:17.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\source\\repos\\Assimentf\\Assimentf\\Admin.xaml.cs",
+              "RelativeDocumentMoniker": "Assimentf\\Admin.xaml.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\source\\repos\\Assimentf\\Assimentf\\Admin.xaml.cs",
+              "RelativeToolTip": "Assimentf\\Admin.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAjwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:23:06.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Allmovie.xaml",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\source\\repos\\Assimentf\\Assimentf\\Allmovie.xaml",
+              "RelativeDocumentMoniker": "Assimentf\\Allmovie.xaml",
+              "ToolTip": "C:\\Users\\Ahmed\\source\\repos\\Assimentf\\Assimentf\\Allmovie.xaml",
+              "RelativeToolTip": "Assimentf\\Allmovie.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-15T13:34:03.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\source\\repos\\Assimentf\\Assimentf\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "Assimentf\\Login.xaml.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\source\\repos\\Assimentf\\Assimentf\\Login.xaml.cs",
+              "RelativeToolTip": "Assimentf\\Login.xaml.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAwwEcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T12:29:36.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\source\\repos\\Assimentf\\Assimentf\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Assimentf\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\source\\repos\\Assimentf\\Assimentf\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Assimentf\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T11:24:45.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SignUp.xaml",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\source\\repos\\Assimentf\\Assimentf\\SignUp.xaml",
+              "RelativeDocumentMoniker": "Assimentf\\SignUp.xaml",
+              "ToolTip": "C:\\Users\\Ahmed\\source\\repos\\Assimentf\\Assimentf\\SignUp.xaml",
+              "RelativeToolTip": "Assimentf\\SignUp.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-15T11:40:19.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SignUp.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\source\\repos\\Assimentf\\Assimentf\\SignUp.xaml.cs",
+              "RelativeDocumentMoniker": "Assimentf\\SignUp.xaml.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\source\\repos\\Assimentf\\Assimentf\\SignUp.xaml.cs",
+              "RelativeToolTip": "Assimentf\\SignUp.xaml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAApwDAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T15:48:05.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\source\\repos\\Assimentf\\Assimentf\\Login.xaml",
+              "RelativeDocumentMoniker": "Assimentf\\Login.xaml",
+              "ToolTip": "C:\\Users\\Ahmed\\source\\repos\\Assimentf\\Assimentf\\Login.xaml",
+              "RelativeToolTip": "Assimentf\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-15T11:33:23.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ForgPass.xaml",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\source\\repos\\Assimentf\\Assimentf\\ForgPass.xaml",
+              "RelativeDocumentMoniker": "Assimentf\\ForgPass.xaml",
+              "ToolTip": "C:\\Users\\Ahmed\\source\\repos\\Assimentf\\Assimentf\\ForgPass.xaml",
+              "RelativeToolTip": "Assimentf\\ForgPass.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-15T11:44:58.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\source\\repos\\Assimentf\\Assimentf\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Assimentf\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Ahmed\\source\\repos\\Assimentf\\Assimentf\\MainWindow.xaml",
+              "RelativeToolTip": "Assimentf\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-15T11:24:46.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\source\\repos\\Assimentf\\Assimentf\\Model1.edmx",
+              "RelativeDocumentMoniker": "Assimentf\\Model1.edmx",
+              "ToolTip": "C:\\Users\\Ahmed\\source\\repos\\Assimentf\\Assimentf\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Assimentf\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-15T14:44:56.535Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ForgPass.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\source\\repos\\Assimentf\\Assimentf\\ForgPass.xaml.cs",
+              "RelativeDocumentMoniker": "Assimentf\\ForgPass.xaml.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\source\\repos\\Assimentf\\Assimentf\\ForgPass.xaml.cs",
+              "RelativeToolTip": "Assimentf\\ForgPass.xaml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwCoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T16:10:50.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
